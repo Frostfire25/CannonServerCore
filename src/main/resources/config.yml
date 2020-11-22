@@ -1,0 +1,30 @@
+magicsand:
+  plot_limit: 100
+  block: "COBBLESTONE"
+  header: "&cMagic Sand"
+  lore:
+    - "&bMagic Sand"
+    - "&7&o(( Right-Click to Start Placing Magic Sand ))"
+
+upload:
+  - "&f&o          upload.yourserver.com"
+  - "&7&o   ((  Click here to Upload your Personal Schematics  ))"
+
+tntfill_radius: 50
+
+no_last_click: "&cYou need to interact with a lever / button for this to work."
+powered: "This button or lever is already powered."
+fire: "&cClicked"
+lever: "&cClicked lever"
+plot_needed: "&cYou need to be in a plot to do this."
+no_permission: "&cNo permission."
+placed_magic_sand: "Placed Magic Sand"
+broke_magic_sand: "&cBroke Magic Sand"
+given_magic_sand: "&cGiven Magic Sand"
+removed_all_magic_sand: "&cRemoved %amount% Magic sand on your plot."
+only_remove_on_your_plot: "&cYou can only remove magic sand on your plot"
+limit_reached: "&4You have reached the max amount of magic sand for this plot"
+sand_removed: "&cRemoved %amount% of sand."
+tntfilled: "&eTntfilled %amount% dispensers"
+tntunfilled: "&dTntunfilled %amount% dispensers"
+

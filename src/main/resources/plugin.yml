@@ -1,0 +1,16 @@
+name: CannonServerCore
+version: ${project.version}
+main: co.antiqu.cannonservercore.CannonServerCore
+api-version: 1.16.1
+authors: [AlexElg]
+commands:
+  magicsand:
+  tntfill:
+  fire:
+    aliases: [button]
+  lever:
+  tntunfill:
+  upload:
+    aliases: [/upload,download]
+  removemagicsand:
+    aliases: [rms]
